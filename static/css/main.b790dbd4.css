@@ -1,0 +1,2 @@
+.Carousel{margin:0 auto;overflow:hidden}.Carousel__list{display:flex;list-style:none;margin:0;padding:0;transition:transform 1s ease-in-out}.Carousel__image{height:auto}.CarouselSettings{border:1px solid #ccc;display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:20px;padding:10px}.CarouselSettings__legend{padding:0 10px}.CarouselSettings__label{margin-bottom:10px;min-width:150px}.CarouselSettings__input{border:1px solid #888;margin-left:10px}.CarouselSettings__input:focus{border-color:#0056b3;outline:none}
+/*# sourceMappingURL=main.b790dbd4.css.map*/
